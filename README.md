@@ -1,3 +1,3 @@
 # hooks-test
 
-hello world!      
+hello mars!      
