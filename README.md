@@ -13,6 +13,4 @@ aaa
 asdasdasdasdsa
 asdfasdfasdf
 asdfasdfasdf
-Notify!!!
-Notify2!!!
 foobar
